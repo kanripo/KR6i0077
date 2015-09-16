@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 說無垢稱經
+#+DATE: 2015-08-30 20:09:12.901646
+#+PROPERTY: JUAN 0
