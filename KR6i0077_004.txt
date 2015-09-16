@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:12.579135
+#+DATE: 2015-08-30 20:09:15.389311
 #+TITLE: 說無垢稱經
 #+PROPERTY: CBETA_ID T14n0476
 #+PROPERTY: ID KR6i0077
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 476
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0077_T_004-0572c> 
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《說無垢稱經》卷第四¶
+《說無垢稱經》卷第四¶
 大唐三藏法師玄奘譯¶
 
-7觀有情品
-:PROPERTIES:
-:head: 觀有情品第七
-:END:
-¶
+觀有情品第七¶
 
 時妙吉祥問無垢稱：「云何菩薩觀諸有情？」
 
@@ -399,11 +394,7 @@
 於無上正等菩提永不退轉，乘本願力如¶
 其所欲，隨所宜處成熟有情。」¶
 
-8菩提分品
-:PROPERTIES:
-:head: 《說無垢稱經》菩提分品第八
-:END:
-¶
+《說無垢稱經》菩提分品第八¶
 
 時妙吉祥問無垢稱：「云何菩薩於諸佛法¶
 到究竟趣？」
@@ -701,11 +692,7 @@
 #+END_VERSE
 」¶
 
-9不二法門品
-:PROPERTIES:
-:head: 《說無垢稱經》不二法門品第九
-:END:
-¶
+《說無垢稱經》不二法門品第九¶
 
 時無垢稱普問眾中諸菩薩曰：「云何菩薩善¶
 能悟入不二法門？仁者皆應任己辯才各¶
