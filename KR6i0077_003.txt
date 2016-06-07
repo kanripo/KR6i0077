@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:12.551791
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:34
 #+TITLE: 說無垢稱經
 #+PROPERTY: CBETA_ID T14n0476
 #+PROPERTY: ID KR6i0077
@@ -16,7 +16,7 @@
 ¶
 大唐三藏法師玄奘譯¶
 
-5問疾品
+* 5問疾品
 :PROPERTIES:
 :head: 問疾品第五
 :END:
@@ -346,7 +346,7 @@
 八億天子聞所說法皆於無上正等菩提發¶
 心趣向。¶
 
-6不思議品
+* 6不思議品
 :PROPERTIES:
 :head: 《說無垢稱經》不思議品第六
 :END:
